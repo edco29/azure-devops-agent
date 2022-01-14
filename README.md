@@ -24,7 +24,7 @@ ejemplo:
 > ./startup.sh ubuntu /opt/patfile oncloud ABC-ORGANIZATION
 
  
-** NOTA:**
+**NOTA:**
  
  1. Brindar permisos de ejecucion a todos los scripts antes de ejecutarlos **(chmod +x scripname.sh)**
  
